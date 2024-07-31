@@ -1,4 +1,4 @@
-select *from students;
+select *from cars;
 
-delete from students
-where id=4;
+delete from cars
+where VIN='DAM41UDN3CHU2WVF6';
