@@ -1,4 +1,3 @@
 select *from cars;
 
-delete from cars
-where VIN='DAM41UDN3CHU2WVF6';
+DELETE FROM cars WHERE vin='DAM41UDN3CHU2WVF6';
